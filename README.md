@@ -1,5 +1,12 @@
-# telecom-internet-complaints-analysis-Egypt
-Data Analysis of Telecom Internet Complaints in Egypt
+![Project Banner](PROJECT-PANNER.png)
+
+# Internet Complaints Analysis – Egypt
+
+## 📌 Project Overview
+Data analysis of telecom internet complaints in Egypt to identify service issues, pricing concerns, and customer dissatisfaction patterns.
+
+---
+
 ## 👥 Team – NXT5_ONL4_DAT2_G2 (Group 2)
 1.	Abdulaziz Mustafa Muhammad Elewasy 
 2.	Amira Mohamed Abdel Fattah Abdel Aziz 
